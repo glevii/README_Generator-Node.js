@@ -25,7 +25,7 @@ The application is invoked by using the command line "node index.js" in your bas
 
 <img src="assets/application_screenshot.JPG">
 <br>
-<a href="https://drive.google.com/file/d/1ii3nnJT8Rm1FJpKBDgoprn9EvDPnDVQS/view">
+<a href="https://drive.google.com/file/d/1ii3nnJT8Rm1FJpKBDgoprn9EvDPnDVQS/view"></a>
 
 
 ## Questions
